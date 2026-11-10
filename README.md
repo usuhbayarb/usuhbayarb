@@ -36,6 +36,7 @@ I build mobile apps with Flutter and websites for small businesses in Mongolia: 
 
 ## What I'm doing now
 
+- Building my own startup, Szink (in development, details are private)
 - Taking freelance web and mobile projects
 - Finishing my degree at NUM
 - Getting better at testing and clean architecture in Flutter
